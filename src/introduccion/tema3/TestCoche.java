@@ -1,4 +1,4 @@
-package introduccion;
+package introduccion.tema3;
 
 public class TestCoche {
 	public static void main(String[] args) {
