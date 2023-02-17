@@ -1,4 +1,4 @@
-package introduccion;
+package introduccion.tema8;
 
 public class TestPersona {
 	public static void main(String[] args) {
