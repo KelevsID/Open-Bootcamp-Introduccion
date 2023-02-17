@@ -2,10 +2,11 @@ package introduccion.tema4;
 
 /**
  * 
- * @author KelevsID 
- * 		   Usando un if, crear una condición que compare si la variable
- *         numeroIf es positivo, negativo, o 0. Pista: Los números inferiores a
- *         0 son negativos y los superiores, positivos.
+ * @author KelevsID
+ *		Ejercicios tema 4 
+ * 		Usando un if, crear una condición que compare si la variable
+ *      numeroIf es positivo, negativo, o 0. Pista: Los números inferiores a
+ *      0 son negativos y los superiores, positivos.
  */
 public class EstructuraDeControl {
 	public static void main(String[] args) {
